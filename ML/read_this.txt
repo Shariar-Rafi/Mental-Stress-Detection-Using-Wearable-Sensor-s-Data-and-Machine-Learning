@@ -1,1 +1,7 @@
-All machine learning related works will appear here.
+Added two models: a standard Random Forest and a Random Forest with random sampling (undersampling).
+
+100% CSV:
+Accuracy Score: 98.86%
+
+50% CSV:
+Accuracy Score: 98.10%
